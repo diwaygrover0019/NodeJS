@@ -30,4 +30,4 @@ let course = {
         id: 'ref',
         name: 'Mosh'
     }
-};
+}; 
