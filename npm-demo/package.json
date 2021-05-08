@@ -9,10 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
-    "jshint": "^2.10.3"
+    "jshint": "^2.10.3",
+    "lodash": ">=4.17.19"
   },
   "description": ""
 }
